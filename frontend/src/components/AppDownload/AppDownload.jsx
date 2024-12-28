@@ -6,7 +6,7 @@ import './appdownload.css'
 
 const AppDownload = () => {
     return (
-       <div  className=" w-full mt-8   ">
+       <div  className=" w-full mt-8   " id="aboutus">
         <h4 className="text-2xl ">About us </h4>
   <div className="flex flex-row justify-between w-[80%]  items-center  md:space-y-0 ">
     
