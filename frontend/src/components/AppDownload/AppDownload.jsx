@@ -1,6 +1,5 @@
 
 import { assets } from "../../assets/assets"
-import './appdownload.css'
 
 
 
